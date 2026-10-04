@@ -1,0 +1,10 @@
+.detail-wrapper {
+  max-width: 20rem;
+  margin: auto;
+}
+
+.detail-wrapper .card .description {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}

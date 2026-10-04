@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Secuencias",
+    "description": "Malbec",
+    "price": 5000,
+    "image": "/img/wines/secuencias.jpg",
+    "category": "Vinos"
+  },
+   {
+    "id": 2,
+    "name": "Terra",
+    "description": "Torrontes",
+    "price": 5000,
+    "image": "/img/wines/terratorrontes.jpg",
+    "category": "Vinos"
+  },
+   {
+    "id": 3,
+    "name": "Terra",
+    "description": "Malbec",
+    "price": 15000,
+    "image": "/img/wines/terramalbec.jpg",
+    "category": "Vinos"
+  },
+   {
+    "id": 4,
+    "name": "Terra",
+    "description": "Cabernet Sauvignon",
+    "price": 15000,
+    "image": "/img/wines/terrasauvignon.jpg",
+    "category": "Vinos"
+  },
+   {
+    "id": 5,
+    "name": "Terra",
+    "description": "Red Blend",
+    "price": 15000,
+    "image": "/img/wines/terrablend.jpg",
+    "category": "Vinos"
+  },
+   {
+    "id": 6,
+    "name": "Rapsodia",
+    "description": "Malbec",
+    "price": 15000,
+    "image": "/img/wines/rapsodiamalbec.jpg",
+    "category": "Vinos"
+  }
+]
